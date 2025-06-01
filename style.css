@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('https://wallpaperaccess.com/full/317501.jpg') no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 50px auto;
+  width: 70%;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+.form-group button {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.task-list {
+  margin-top: 20px;
+}
+.task {
+  background: #f9f9f9;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.task button {
+  margin-left: 10px;
+}
+h1{
+    text-align: center;
+}
+h2 {
+  border-bottom: 1px solid #ccc;
+}
