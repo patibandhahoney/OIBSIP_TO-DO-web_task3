@@ -31,7 +31,7 @@ A simple and interactive To-Do web application built with **HTML**, **CSS**, and
 No installation or backend setup is required. You only need a modern web browser.
 
 ## Home page and Add list
-
+![Image](https://github.com/user-attachments/assets/e9797f84-ea65-4418-9bb2-5f69c9dd54de)
 
 ## Complete task OR Pending task
 ![Image](https://github.com/user-attachments/assets/0fbae5a7-946c-4ddb-830d-725085a07909)
